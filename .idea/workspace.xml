@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="688d8e2d-f6dd-47fa-a0f1-f096cf2ba602" name="Default Changelist" comment="hello world!" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1kdpj95pIxurQZwjkuQzbg6T4aY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/marsyrc/chitchat" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="chitchat" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/marsyrc/chitchat" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/marsyrc/chitchat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="688d8e2d-f6dd-47fa-a0f1-f096cf2ba602" name="Default Changelist" comment="" />
+      <created>1606040455783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606040455783</updated>
+      <workItem from="1606040457053" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello world!" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello world!" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2534" y="323" key="#Notifications" timestamp="1606046287247">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2534" y="323" key="#Notifications/0.0.1920.1040/1920.0.1858.1080@1920.0.1858.1080" timestamp="1606046287247" />
+    <state x="158" y="327" key="#SQL_Dialects" timestamp="1606101084369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="158" y="327" key="#SQL_Dialects/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606101084369" />
+    <state x="552" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606101061322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606101061322" />
+    <state x="628" y="304" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606101227279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="628" y="304" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606101227279" />
+    <state x="470" y="23" key="CommitChangelistDialog2" timestamp="1606100777716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="470" y="23" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606100777716" />
+    <state x="2375" y="31" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1858.1080@1920.0.1858.1080" timestamp="1606041174907" />
+    <state width="1867" height="267" key="GridCell.Tab.0.bottom" timestamp="1606101021980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606101021980" />
+    <state width="1805" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1858.1080@1920.0.1858.1080" timestamp="1606044366897" />
+    <state width="1867" height="267" key="GridCell.Tab.0.center" timestamp="1606101021980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="267" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606101021980" />
+    <state width="1805" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1858.1080@1920.0.1858.1080" timestamp="1606044366897" />
+    <state width="1867" height="267" key="GridCell.Tab.0.left" timestamp="1606101021980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="267" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606101021980" />
+    <state width="1805" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1858.1080@1920.0.1858.1080" timestamp="1606044366897" />
+    <state width="1867" height="267" key="GridCell.Tab.0.right" timestamp="1606101021980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="267" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606101021980" />
+    <state width="1805" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1858.1080@1920.0.1858.1080" timestamp="1606044366897" />
+    <state x="509" y="224" key="MultipleFileMergeDialog" timestamp="1606115860343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="509" y="224" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606115860343" />
+    <state x="435" y="200" key="Vcs.Push.Dialog.v2" timestamp="1606115835135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="435" y="200" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606115835135" />
+    <state x="2341" y="208" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1858.1080@1920.0.1858.1080" timestamp="1606041182676" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
